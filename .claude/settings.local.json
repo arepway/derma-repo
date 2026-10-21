@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(find:*)",
+      "Bash(php -l:*)",
+      "Bash(mysql:*)",
+      "Bash(del \"c:\\xampp\\htdocs\\dermatology_clinic\\body_map.php\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
